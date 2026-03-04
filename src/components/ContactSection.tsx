@@ -34,7 +34,7 @@ const ContactSection = () => {
         </ScrollReveal>
 
         <div className="max-w-2xl mx-auto">
-          <ScrollReveal>
+          {/* <ScrollReveal>
             <form onSubmit={handleSubmit} className="glass rounded-2xl p-8 md:p-10 gradient-border space-y-6">
               <div className="grid sm:grid-cols-2 gap-6">
                 <div>
@@ -79,12 +79,12 @@ const ContactSection = () => {
                 Enviar Mensagem
               </Button>
             </form>
-          </ScrollReveal>
+          </ScrollReveal> */}
 
           <ScrollReveal delay={1}>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mt-8">
               <a
-                href="https://wa.me/5500000000000"
+                href="https://wa.me/5521965844936"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-6 py-3 rounded-xl glass neon-glow-hover transition-all text-sm text-muted-foreground hover:text-foreground"
@@ -93,7 +93,7 @@ const ContactSection = () => {
                 WhatsApp
               </a>
               <a
-                href="https://linkedin.com/in/victor-lessa"
+                href="https://linkedin.com/in/victorcamaralessa"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-6 py-3 rounded-xl glass neon-glow-hover transition-all text-sm text-muted-foreground hover:text-foreground"
