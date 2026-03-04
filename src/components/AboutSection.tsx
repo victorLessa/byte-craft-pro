@@ -34,16 +34,16 @@ const AboutSection = () => {
                 Victor Camara <span className="gradient-text">Lessa</span>
               </h2>
               <p className="text-sm uppercase tracking-widest text-primary mb-6 font-medium">
-                Engenheiro de Software & Especialista em IA
+                Desenvolvedor Full Stack & Especialista em Automação
               </p>
               <p className="text-muted-foreground leading-relaxed max-w-xl mb-4">
-                Com ampla experiência no <strong className="text-foreground">setor bancário</strong>, trago a disciplina
-                de ambientes que exigem <strong className="text-foreground">segurança máxima, alta disponibilidade
-                e escalabilidade</strong> para cada projeto.
+                Com ampla experiência no <strong className="text-foreground">setor bancário</strong> e em 
+                projetos corporativos, construo <strong className="text-foreground">sites institucionais que 
+                transmitem credibilidade</strong> e automatizo processos que antes consumiam horas de trabalho manual.
               </p>
               <p className="text-muted-foreground leading-relaxed max-w-xl">
-                Minha missão é traduzir complexidade técnica em resultados reais para o seu negócio —
-                desde automações inteligentes até agentes de IA que trabalham por você 24/7.
+                Minha missão é entregar presença digital profissional e eliminar tarefas repetitivas do dia a dia 
+                da sua empresa — para que você foque no que realmente importa: crescer.
               </p>
             </div>
           </div>

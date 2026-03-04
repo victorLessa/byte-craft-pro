@@ -11,8 +11,8 @@ const techCategories = [
     items: ['Python', 'Node.js', 'AWS', 'Docker'],
   },
   {
-    title: 'IA & Data',
-    items: ['LangChain', 'OpenAI', 'RAG', 'Vector DBs'],
+    title: 'Automação',
+    items: ['N8N', 'Make', 'APIs REST', 'Webhooks'],
   },
   {
     title: 'Metodologias',
@@ -21,10 +21,10 @@ const techCategories = [
 ];
 
 const highlights = [
-  'Código limpo e bem documentado',
-  'Arquitetura sólida e escalável',
-  'Segurança de dados como prioridade',
-  'Entrega contínua e iterativa',
+  'Sites rápidos e otimizados para Google',
+  'Automações que eliminam trabalho manual',
+  'Segurança e proteção de dados',
+  'Entrega contínua e suporte dedicado',
 ];
 
 const TechSection = () => {
