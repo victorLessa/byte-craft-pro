@@ -6,7 +6,7 @@ const navLinks = [
   { label: 'Sobre', href: '#sobre' },
   { label: 'Serviços', href: '#servicos' },
   { label: 'Tecnologias', href: '#tech' },
-  { label: 'Contato', href: '#contato' },
+  // { label: 'Contato', href: '#contato' },
 ];
 
 const Navbar = () => {
@@ -48,13 +48,13 @@ const Navbar = () => {
               {link.label}
             </button>
           ))}
-          {/* <Button
+          <Button
             onClick={() => scrollTo('#contato')}
             className="bg-gradient-to-r from-primary to-secondary text-primary-foreground hover:opacity-90 transition-opacity"
             size="sm"
           >
             Contato
-          </Button> */}
+          </Button>
         </div>
 
         {/* Mobile toggle */}
