@@ -18,12 +18,12 @@ const HeroSection = () => {
         </div>
 
         <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold leading-tight tracking-tight mb-6 hero-animate hero-animate-delay-1">
-          Transformando Complexidade Técnica em{' '}
-          <span className="gradient-text">Vantagem Competitiva.</span>
+          Sites Institucionais & {' '}
+          <span className="gradient-text">Automações Inteligentes.</span>
         </h1>
 
         <p className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-10 hero-animate hero-animate-delay-2">
-          Engenheiro de Software & Especialista em IA. Soluções de elite para automação, sistemas escaláveis e agentes inteligentes.
+          Desenvolvedor Full Stack & Especialista em Automação. Crio sites profissionais que geram autoridade e automatizo processos manuais que desperdiçam tempo e dinheiro.
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 hero-animate hero-animate-delay-3">
@@ -42,7 +42,7 @@ const HeroSection = () => {
             className="bg-gradient-to-r from-primary to-secondary text-primary-foreground hover:opacity-90 gap-2 px-8"
           >
             <Rocket size={18} />
-            Iniciar Projeto
+            Solicitar Orçamento
           </Button>
         </div>
       </div>

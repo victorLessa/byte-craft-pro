@@ -1,24 +1,24 @@
-import { Code, Brain, Zap } from 'lucide-react';
+import { Globe, Zap, Code } from 'lucide-react';
 import ScrollReveal from './ScrollReveal';
 
 const services = [
   {
-    icon: Code,
-    title: 'Desenvolvimento de Software',
-    description: 'Sites e sistemas sob medida com foco em performance, segurança e experiência do usuário. Arquitetura limpa e código escalável.',
-    tags: ['Web Apps', 'APIs', 'Sistemas'],
-  },
-  {
-    icon: Brain,
-    title: 'Inteligência Artificial',
-    description: 'Agentes autônomos, RAG, integração de LLMs em fluxos existentes. IA que resolve problemas reais do seu negócio.',
-    tags: ['Agentes IA', 'RAG', 'LLMs'],
+    icon: Globe,
+    title: 'Sites Institucionais',
+    description: 'Sites profissionais que transmitem credibilidade e autoridade para sua empresa. Design moderno, responsivo e otimizado para conversão e SEO.',
+    tags: ['Landing Pages', 'Sites Corporativos', 'SEO'],
   },
   {
     icon: Zap,
-    title: 'Automações Inteligentes',
-    description: 'Otimização de processos para redução de custos operacionais. Workflows inteligentes que economizam horas de trabalho manual.',
+    title: 'Automação de Processos',
+    description: 'Eliminação de tarefas manuais e repetitivas que consomem tempo da sua equipe. Workflows inteligentes que economizam horas e reduzem erros.',
     tags: ['Workflows', 'Integrações', 'RPA'],
+  },
+  {
+    icon: Code,
+    title: 'Sistemas Web sob Medida',
+    description: 'Aplicações e painéis administrativos desenvolvidos para as necessidades específicas do seu negócio, com foco em usabilidade e performance.',
+    tags: ['Web Apps', 'Dashboards', 'APIs'],
   },
 ];
 
@@ -29,10 +29,10 @@ const ServicesSection = () => {
         <ScrollReveal>
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">
-              Serviços de <span className="gradient-text">Elite</span>
+              Como Posso <span className="gradient-text">Ajudar</span>
             </h2>
             <p className="text-muted-foreground max-w-lg mx-auto">
-              Soluções técnicas de alto nível para empresas que buscam vantagem competitiva real.
+              Soluções práticas para empresas que precisam de presença digital forte e processos mais eficientes.
             </p>
           </div>
         </ScrollReveal>
