@@ -48,13 +48,13 @@ const Navbar = () => {
               {link.label}
             </button>
           ))}
-          <Button
+          {/* <Button
             onClick={() => scrollTo('#contato')}
             className="bg-gradient-to-r from-primary to-secondary text-primary-foreground hover:opacity-90 transition-opacity"
             size="sm"
           >
             Contato
-          </Button>
+          </Button> */}
         </div>
 
         {/* Mobile toggle */}
