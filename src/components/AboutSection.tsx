@@ -37,7 +37,7 @@ const AboutSection = () => {
                 Desenvolvedor Full Stack & Especialista em Automação
               </p>
               <p className="text-muted-foreground leading-relaxed max-w-xl mb-4">
-                Com ampla experiência no <strong className="text-foreground">setor bancário</strong> e em 
+                Com ampla experiência no <strong className="text-foreground">setor de tecnologia</strong> e em 
                 projetos corporativos, construo <strong className="text-foreground">sites institucionais que 
                 transmitem credibilidade</strong> e automatizo processos que antes consumiam horas de trabalho manual.
               </p>
