@@ -84,7 +84,7 @@ const ContactSection = () => {
           <ScrollReveal delay={1}>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mt-8">
               <a
-                href="https://wa.me/5521965844936"
+                href="https://wa.me/5521998072461"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-6 py-3 rounded-xl glass neon-glow-hover transition-all text-sm text-muted-foreground hover:text-foreground"
